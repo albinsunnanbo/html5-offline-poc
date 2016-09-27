@@ -19,6 +19,19 @@
       "renameLocals": true
     },
     // Optinally generate .map file
-    "sourceMap": false
+    "sourceMap": true
+  },
+  {
+    "outputFileName": "wwwroot/js/offline.min.js",
+    "inputFiles": [
+      "wwwroot/js/offline.js"
+    ],
+    // Optionally specify minification options
+    "minify": {
+      "enabled": true,
+      "renameLocals": true
+    },
+    // Optinally generate .map file
+    "sourceMap": true
   }
 ]
