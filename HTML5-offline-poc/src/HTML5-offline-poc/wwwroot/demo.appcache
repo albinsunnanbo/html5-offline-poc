@@ -10,3 +10,6 @@
 /lib/bootstrap/dist/css/bootstrap.css
 /lib/jquery/dist/jquery.js
 /lib/bootstrap/dist/js/bootstrap.js
+
+https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.6/bootstrap.min.js
+http://html5-offline-poc.azurewebsites.net/lib/bootstrap/dist/js/bootstrap.min.js
